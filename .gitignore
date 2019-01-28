@@ -94,5 +94,7 @@ typings/
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+# the distributables are made active
+dist
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
