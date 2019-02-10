@@ -26,4 +26,5 @@ adding product reason.AI into the portal
 ============
 - adding the reason ai alpha release to the linux debian users nly
 - changing the face images of reason to suit the product
+- adding sensor eye project page to the system
 
