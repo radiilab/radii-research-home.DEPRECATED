@@ -25,4 +25,5 @@ adding product reason.AI into the portal
 10.02.2019
 ============
 - adding the reason ai alpha release to the linux debian users nly
+- changing the face images of reason to suit the product
 
