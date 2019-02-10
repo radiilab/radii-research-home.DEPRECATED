@@ -21,3 +21,8 @@ change of theme color to yellow
 07.01.2019
 ============
 adding product reason.AI into the portal
+
+10.02.2019
+============
+- adding the reason ai alpha release to the linux debian users nly
+
