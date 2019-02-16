@@ -29,3 +29,8 @@ adding product reason.AI into the portal
 - adding sensor eye project page to the system
 - adding the product to the site page [ sensoreye ]
 
+16.02.2019 
+==============
+- minor site bug fixes relinking
+- new alpha minor version of sensor eye released
+- reason ai undergoing makeover soon
