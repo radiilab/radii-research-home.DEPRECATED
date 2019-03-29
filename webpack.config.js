@@ -18,7 +18,8 @@ var entry1 = [
     'CommingSoon',
     'reasonAI',
     'sensorEye',
-    'deviceWeb'
+    'deviceWeb',
+    'triangulatedWeb'
   ];
    // Call our function on our views directory.
 var entryHtmlPlugins = entry1.map(function (entryName) {
