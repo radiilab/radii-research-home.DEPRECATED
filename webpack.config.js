@@ -18,6 +18,8 @@ var entry1 = [
     'CommingSoon',
     'reasonAI',
     'sensorEye',
+    'deepLearn',
+    'generalAI',
     'deviceWeb',
     'triangulatedWeb'
   ];
