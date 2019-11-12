@@ -21,7 +21,8 @@ var entry1 = [
     'deepLearn',
     'generalAI',
     'deviceWeb',
-    'triangulatedWeb'
+    'triangulatedWeb',
+    //'licenseIssue'
   ];
    // Call our function on our views directory.
 var entryHtmlPlugins = entry1.map(function (entryName) {
