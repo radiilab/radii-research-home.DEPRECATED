@@ -16,6 +16,7 @@ var styleExtractor = new ExtractTextPlugin({
 //product charts of the education line 
 var entry1 = [
     'CommingSoon',
+    'drishtiLib',
     'reasonAI',
     'sensorEye',
     'deepLearn',
