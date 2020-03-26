@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -10,42 +9,42 @@
 
 <url>
   <loc>https://products.radii.in/</loc>
-  <lastmod>2019-04-20T07:08:54+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://products.radii.in/deviceWeb.html</loc>
-  <lastmod>2019-03-26T14:51:01+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://products.radii.in/sensorEye.html</loc>
-  <lastmod>2019-04-01T05:08:21+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://products.radii.in/reasonAI.html</loc>
-  <lastmod>2019-03-10T18:59:59+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://products.radii.in/deepLearn.html</loc>
-  <lastmod>2019-04-20T07:08:53+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://products.radii.in/generalAI.html</loc>
-  <lastmod>2019-04-20T07:08:53+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://products.radii.in/deviceWeb.html</loc>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://products.radii.in/CommingSoon.html</loc>
-  <lastmod>2019-01-28T16:58:24+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://products.radii.in/triangulatedWeb.html</loc>
-  <lastmod>2019-03-26T14:51:00+00:00</lastmod>
+  <lastmod>2020-03-26T06:44:27+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
