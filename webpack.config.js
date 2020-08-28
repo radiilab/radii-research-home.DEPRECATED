@@ -17,7 +17,7 @@ var styleExtractor = new ExtractTextPlugin({
 var entry1 = [
     'CommingSoon',
     'drishtiLib',
-    'reasonAI',
+    'radLang',
     'sensorEye',
     'deepLearn',
     'generalAI',
